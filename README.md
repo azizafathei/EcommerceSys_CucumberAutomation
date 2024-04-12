@@ -12,3 +12,18 @@ features  covered
 -checkout product
 -logout
 
+--registeration data
+
+| firstname        | lastname | email                   | password  |
+
+| aza              | salim    | azasalim_004@gmail.com  | aza123    |
+
+| lamia            | ali      | lamiaali_005@gmail.com    | lamia123  |
+
+--login data
+| azasalim_004@gmail.com         | aza123      |
+
+
+--every time you try to register plz change the mail in register data and login data
+
+
