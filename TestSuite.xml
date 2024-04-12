@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="nopcommerceregressionSuite">
+    <parameter name="browser" value="chrome"></parameter>
+    <test name="Regressiontest">
+
+            <classes>
+                <class name="Runneres.TestRunner"/>
+            </classes>
+
+
+    </test>
+</suite>
